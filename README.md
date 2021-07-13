@@ -1,2 +1,9 @@
 # 42SP-Born2beroot
-Summary: This document is a System Administration related exercise.
+My firt server in C, a 42São Paulo project. July/2021 - August/2021
+
+Description: This project consists of having you set up your first server by following specific rules.
+
+Actual Status: In progress
+Result: -
+
+Need any help: vcavalca@student.42sp.org.br
